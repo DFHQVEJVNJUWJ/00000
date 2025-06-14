@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Miele WEA 025 WCS",
+        "price": 42779,
+        "image": "realistic-washing-machine-composition-with-isolated-view-laundry-flying-out-machine-door-basin-vecto.zip",
+        "description": "німецький бренд з історією, компанія заснована в 1809 році. Саме Miele розробили першу пральну машину з електричним приводом. Зараз завод в Гютерсло – це найстаріший та найбільший завод Miele, заснований в 1907 році, де з німецькою точністю та педантичністю налагоджені всі процеси виробництва та збірки, які відточені десятиліттями."
+    },
+    {
+        "title": "Bosch WGB256A0UA",
+        "price": 55999,
+        "image": "WGB256A0UA.jpg",
+        "description": "Потужна стіралка гарантія 10 років"
+    },
+    {
+        "title": "Electrolux EW9W161BUC",
+        "price": 61499,
+        "image": "167875.png",
+        "description": "Стіралка виготовленна в Швеції.Гарантія 5 років"
+    }
+]
