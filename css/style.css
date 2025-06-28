@@ -1,6 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Mono&family=Manufacturing+Consent&family=Noto+Sans+Sunuwar&family=Oswald:wght@200..700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@100..800&display=swap');
-
-
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Mono&family=Manufacturing+Consent&family=Noto+Sans+Sunuwar&display=swap');
 html {
     font-size: 18px;
 }
@@ -8,7 +8,9 @@ html {
 body {
     background-color: #272727;
     color: white;
-    font-family: "Martian Mono", monospace;
+    font-family: "Libertinus Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
     margin: 0px;
     /* забираємо стандартні відступи в тега body */
 }
@@ -180,7 +182,7 @@ header.fixed {
     color: rgb(255, 255, 255);
     font-weight: 600;
     font-size: 0.9em;
-    font-family: "Martian Mono", monospace;
+    /* font-family: "Martian Mono", monospace; */
     border: none;
     position: relative;
     cursor: pointer;
