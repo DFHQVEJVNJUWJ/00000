@@ -3,18 +3,18 @@
         "title": "Miele WEA 025 WCS",
         "price": 42779,
         "image": "stiralnaja-mashina-miele-wea-025-wcs-active-1.jpg",
-        "description": "німецький бренд з історією, компанія заснована в 1809 році."
+        "description": "German brand with history, the company was founded in 1809."
     },
     {
         "title": "Bosch WGB256A0UA",
         "price": 55999,
         "image": "WGB256A0UA.jpg",
-        "description": "Потужна стіралка гарантія 10 років"
+        "description": "Powerful wiper 10 year warranty"
     },
     {
         "title": "Electrolux EW9W161BUC",
         "price": 61499,
         "image": "167875.png",
-        "description": "Стіралка виготовленна в Швеції.Гарантія 5 років"
+        "description": "The wiper is made in Sweden. 5-year warranty"
     }
 ]

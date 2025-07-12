@@ -15,6 +15,10 @@ body {
     /* забираємо стандартні відступи в тега body */
 }
 
+h3 {
+    color:#a8a8a8
+}
+
 body.light-theme {
     background-color: #e6e6e6;
     color: rgb(24, 24, 24);
@@ -35,7 +39,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: center;
-    color: white;
+    background-color: rgb(255, 255, 255);
     flex-direction: column;
 }
 
@@ -87,7 +91,7 @@ header{
     font-size: 1rem;
     line-height: 1rem;
     /* 120% */
-    color: rgb(154, 131, 255);
+    color: rgb(124, 156, 117);
     display: flex;
     gap: 5px;
     align-items: center;
@@ -113,7 +117,7 @@ header{
 
 footer {
     margin-top: 50px;
-    background: rgb(73, 73, 73);
+    background: rgba(64, 67, 172, 0.271);
     padding: 50px 100px;
 }
 
@@ -177,7 +181,7 @@ header.fixed {
     align-items: center;
     justify-content: center;
     gap: 10px;
-    background: linear-gradient(to left, rgb(173, 154, 255), rgb(149, 110, 255));
+    background: linear-gradient(to left, rgb(154, 154, 154), rgb(70, 70, 70));
     border-radius: 30px;
     color: rgb(255, 255, 255);
     font-weight: 600;
